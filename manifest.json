@@ -1,0 +1,18 @@
+{
+    "name" : "Unicard UK",
+    "short_name" : "Unicard",
+    "description" : "A leading ticketing and payments solutions enabler in the transport sector.",
+    "start_url" : "index.html",
+    "scope" : "./",
+    "background_color" : "#02283B",
+    "theme_color": "#02283B",
+    "lang" : "English",
+    "orientation" : "portrait",
+    "display" : "minimal-ui",
+    "icons" : [
+        {
+            "src": "pwa_icon.png",
+            "sizes": "512x512"
+        }
+    ]
+}
